@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  <head>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+
+  
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+         
+          <h1 id="project_title">{{ site.title | default: Rob Chantler }}</h1>
+          <h2 id="project_tagline">{{ site.description | default: GitHub Page  }}</h2>
+
+        </header>
+    </div>
+
+  
+  
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {{ content }}
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p>Hosted on <a href="https://github.com/robchantler">GitHub</a> ▪ Contact me via <a href="https://www.linkedin.com/in/robchantler/">LinkedIn</a></p>
+      </footer>
+    </div>
+  
+</html>
