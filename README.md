@@ -17,4 +17,4 @@ Microsoft 365 and Azure cloud solutions, including configuration and administrat
 &nbsp;
 &nbsp;
 
-![image](/images/microsoft365-enterprise-adminstrator-expert.png)![image](/images/azure-solutions-architect-expert.png)
+![image](/images/microsoft365-enterprise-adminstrator-expert.png)       ![image](/images/azure-solutions-architect-expert.png)
