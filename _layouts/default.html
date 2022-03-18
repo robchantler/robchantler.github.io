@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 
-  <head><link rel="shortcut icon" type="image/x-icon" href="favicon.ico"></head>
+  <head>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
