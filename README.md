@@ -9,6 +9,12 @@ Microsoft 365 and Azure cloud solutions, including configuration and administrat
 
 
 
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ![image](/images/microsoft365-enterprise-adminstrator-expert.png)
