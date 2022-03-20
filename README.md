@@ -16,5 +16,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
+<img align="center" width="100" src="/images/microsoft365-enterprise-adminstrator-expert.png">
+
 
 ![image](/images/microsoft365-enterprise-adminstrator-expert.png)       ![image](/images/azure-solutions-architect-expert.png)
