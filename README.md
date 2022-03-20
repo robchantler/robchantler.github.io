@@ -1,5 +1,7 @@
 
-<img align="center" src="/images/badges.png">
+<p align="center">
+  <img src="/images/badges.png">
+</p>
 
 ![image](/images/badges.png)
 
