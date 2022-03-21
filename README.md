@@ -31,6 +31,6 @@
 <img src="/images/azure-security-engineer-associate.png">
 <img src="/images/azure-administrator-associate.png">
 <img src="/images/security-administrator-associate.png">
-<img src="/images/messaging-administrator-associate.png">
+<img src="/images/messaging-admin-associate.png">
 <img src="/images/teams-administrator-associate.png">
 </p>
