@@ -6,7 +6,6 @@
 <!--
 ![image](/images/badges.png)
 
-
 #### Microsoft 365 and Azure cloud solutions, configuration and administration of security, messaging, collaboration, governance and compliance products.
 -->
 
@@ -27,11 +26,11 @@
 &nbsp;
 
 <p align="center">
-![image](/images/microsoft365-enterprise-adminstrator-expert.png)
-![image](/images/azure-solutions-architect-expert.png)
-![image](/images/azure-security-engineer-associate.png)
-![image](/images/azure-administrator-associate.png)
-![image](/images/security-administrator-associate.png)
-![image](/images/messaging-administrator-associate.png)
-![image](/images/teams-administrator-associate.png)
+<img src="/images/microsoft365-enterprise-adminstrator-expert.png">
+<img src="/images/azure-solutions-architect-expert.png">
+<img src="/images/azure-security-engineer-associate.png">
+<img src="/images/azure-administrator-associate.png">
+<img src="/images/security-administrator-associate.png">
+<img src="/images/messaging-administrator-associate.png">
+<img src="/images/teams-administrator-associate.png">
 </p>
