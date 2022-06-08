@@ -25,6 +25,8 @@
 &nbsp;
 &nbsp;
 
+<!--
+
 <p align="center">
 <img src="/images/microsoft365-enterprise-adminstrator-expert.png">
 <img src="/images/azure-solutions-architect-expert.png">
@@ -34,3 +36,4 @@
 <img src="/images/messaging-administrator-associate.png">
 <img src="/images/teams-administrator-associate.png">
 </p>
+-->
