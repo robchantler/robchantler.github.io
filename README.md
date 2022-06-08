@@ -11,7 +11,9 @@
 
 <div style="text-align: justify"><h4>Microsoft 365 and Azure cloud solutions, configuration and administration of messaging, collaboration, security, governance and compliance services.</h4></div>
 
-<div style="text-align: justify"><h5>[Microsoft 365 and Azure cloud solutions, configuration and administration of messaging, collaboration, security, governance and compliance services.](https://www.linkedin.com/in/robchantler/)</h5></div>
+<div style="text-align: justify"><h5>
+  [LinkedIn](https://www.linkedin.com/in/robchantler/)
+</h5></div>
 
 
 
