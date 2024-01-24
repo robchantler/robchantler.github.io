@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.278856bf.css",
-    "main.js": "/static/js/main.7f1e1721.js",
+    "main.css": "/static/css/main.3f69b02a.css",
+    "main.js": "/static/js/main.e610c5dc.js",
     "static/media/github.png": "/static/media/github.61b0016964651aee657f.png",
     "static/media/ath-eleph.jpg": "/static/media/ath-eleph.1653e427e5bac47ae423.jpg",
     "static/media/cert.png": "/static/media/cert.98f181dc67e691591b9e.png",
     "index.html": "/index.html",
-    "main.278856bf.css.map": "/static/css/main.278856bf.css.map",
-    "main.7f1e1721.js.map": "/static/js/main.7f1e1721.js.map"
+    "main.3f69b02a.css.map": "/static/css/main.3f69b02a.css.map",
+    "main.e610c5dc.js.map": "/static/js/main.e610c5dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.278856bf.css",
-    "static/js/main.7f1e1721.js"
+    "static/css/main.3f69b02a.css",
+    "static/js/main.e610c5dc.js"
   ]
 }
